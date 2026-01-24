@@ -3190,7 +3190,7 @@ hash = "60825688dd66720c88f3298dbc84f52fa877a988d368c8fca2a9b6ee513bb2d4"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "b19778c83500f14cd8f8e8705dcceaa7df227371b892e63ee9036afac3ee37ca"
+hash = "efebb4efa44614f476cb761278c89e2f4495877e6b39d6430f448c064bd8425c"
 
 [[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
@@ -12680,11 +12680,21 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
+preserve = true
+
+[[files]]
+file = "options.txt"
+hash = "b369cc9b179569a6caf9d9998cbe9293afc3e97f982004a1cd9d23c254710061"
 
 [[files]]
 file = "resourcepacks/journeymap-cobblemon-icons.pw.toml"
 hash = "df4aeb8255a04739ee2ece11d86e055e15886f39d3741e761edec98853f96e54"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "098157a4f1a13e3c1f33b0752b4ba5b0c5d7b68fa162e29a57f868f0e57f771e"
+preserve = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"

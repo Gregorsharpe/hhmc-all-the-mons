@@ -9,3 +9,5 @@
 +Chunk Pregenerator
 
 ~Configured waystones-common.toml
+
++Default keybinds and server, with preserve flag.
