@@ -7,3 +7,5 @@
 
 +Carbon Config
 +Chunk Pregenerator
+
+~Configured waystones-common.toml
