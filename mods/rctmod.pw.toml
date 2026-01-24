@@ -1,0 +1,13 @@
+name = "Radical Cobblemon Trainers"
+filename = "rctmod-neoforge-1.21.1-0.17.4-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13e7d2a4d663c8c868a87c91fb1c116f60e407e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7279672
+project-id = 1009534

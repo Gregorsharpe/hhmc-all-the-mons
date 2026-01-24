@@ -1,0 +1,13 @@
+name = "Time in a bottle [FORGE\\NEOFORGE\\FABRIC]"
+filename = "tiab-neoforge-6.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "237da69b1245bfb18ffabacd50e535f1b4addf39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7356966
+project-id = 895919

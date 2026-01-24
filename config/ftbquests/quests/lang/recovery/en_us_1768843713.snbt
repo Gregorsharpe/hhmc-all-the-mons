@@ -1,0 +1,8 @@
+{
+	"chapters/allthemodium_cobblemon.snbt": {
+		quest.71436F63681DC98D.quest_desc: {
+			new: ["3 &bGreat Balls of Fire&r, 3 &6Allthemodium Balls&r, 2 &3Vibranium Balls&r, and 1 &5Unobtainium Ball&r we can Craft only the greatest &cPoke&rball to exist... the &5&lMaster Ball&r! \\n\\nNo matter the &cPokemons&r Level, Type, Rarity, ETC. the &5&lMaster Ball&r will Catch them (if they aren't already Caught). \\n\\nIt is also essential to Crafting the &6&lATM Star&r!"]
+			old: ["No matter the &cPokemons&r Level, Type, Rarity, ETC. the &5&lMaster Ball&r will Catch them (if they aren't already Caught). \\n\\nIt is also essential to Crafting the &6&lATM Star&r!"]
+		}
+	}
+}

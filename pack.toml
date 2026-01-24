@@ -1,0 +1,12 @@
+name = "All the Mons"
+version = "0.3.0-beta"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3137e9256599838429a4c75b5e050103067456309984f743649a5fcaea7e9bd3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.218"
