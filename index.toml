@@ -11887,6 +11887,11 @@ hash = "f8eda13db38679d458c4906a58e8ab9fc92445f49b1b3a7ed546a5aa84bcefdf"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0b0b8ec73c689824125ed9c568deff51b0adca52aee27e49a114b04ff3f73abe"
+metafile = true
+
+[[files]]
 file = "mods/luminax.pw.toml"
 hash = "7dca27f7b07c71ceb69bd4dc4639e23abc23072c09bbae272718b952341ec344"
 metafile = true
