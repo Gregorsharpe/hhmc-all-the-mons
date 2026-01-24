@@ -11087,6 +11087,11 @@ hash = "b901304209daee4552c23ee06aafb47ff5cdba1353d1b8bbdd965d20ba06377d"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "511a5a7289ff8f004933a55e475836781fa263afff72de5898767ee78168c14f"
+metafile = true
+
+[[files]]
 file = "mods/charging-gadgets.pw.toml"
 hash = "a471ec05d756850dfea0763087dbd1852727e0c00ab06dcd2a3ae8e38e76f8e0"
 metafile = true
@@ -11274,6 +11279,11 @@ metafile = true
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "04d77085a95a9c684abed02b1fbdd1b0252c2d440a4f26da84bbbf50a9b5b7d1"
+metafile = true
+
+[[files]]
+file = "mods/create-cc-total-logistics.pw.toml"
+hash = "a83bcdd656df0543db6dad9398edde9e0c773c24497bc3de527f22696e49f259"
 metafile = true
 
 [[files]]
