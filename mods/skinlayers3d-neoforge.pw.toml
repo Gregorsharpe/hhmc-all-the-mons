@@ -1,0 +1,11 @@
+name = "Skin Layers 3D"
+filename = "skinlayers3d-neoforge-1.10.1-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/hhmc-all-the-mons/refs/heads/main/annoying-mods/skinlayers3d-neoforge-1.10.1-mc1.21.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b3e10dd28ba72f2bee961e6e783749f15eca84aee804aad74a4d6c97ddde8a79"

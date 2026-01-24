@@ -12432,8 +12432,8 @@ hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "9da1b17e718cab38e76ce48fbecbdaa544c27eb53f82bb4ce9b8342b61dc5bcc"
+file = "mods/skinlayers3d-neoforge.pw.toml"
+hash = "e4d352dfd6b2a7867a70d95212ccf7cfa99d7b708519d1e6c04ee8d9de54b1e7"
 metafile = true
 
 [[files]]
