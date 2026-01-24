@@ -11082,6 +11082,11 @@ hash = "7d7b50bca4c32bf627530df6c9990112dba2dd2afe96463d7a4db8b6c7447be9"
 metafile = true
 
 [[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "b901304209daee4552c23ee06aafb47ff5cdba1353d1b8bbdd965d20ba06377d"
+metafile = true
+
+[[files]]
 file = "mods/charging-gadgets.pw.toml"
 hash = "a471ec05d756850dfea0763087dbd1852727e0c00ab06dcd2a3ae8e38e76f8e0"
 metafile = true
@@ -11099,6 +11104,11 @@ metafile = true
 [[files]]
 file = "mods/chroma-carvings.pw.toml"
 hash = "b613fb7592db20e20b1a083d9fd30cfbdf88a370d5fcfd2cc2de6b7621cbeeb1"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "52e1119eb12a3b6dea9cc5d26915a7a6fb91b9529639fee4e9aaa24cda430e59"
 metafile = true
 
 [[files]]
