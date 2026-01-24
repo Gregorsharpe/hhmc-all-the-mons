@@ -12402,6 +12402,11 @@ hash = "04bd0d7668e9a435a0ca553ad247636d74f3641a7542a170de6111cea852dea6"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "148e7d7ad771a2d58f9518e808b849918e7cc209ff58affb4a7d129a6541cae1"
+metafile = true
+
+[[files]]
 file = "mods/simple-weather.pw.toml"
 hash = "a83ab94ac7b0408f648f0c9c02b905eb4c2dda8f8c01be2fdd588503cc5d8428"
 metafile = true
@@ -12454,6 +12459,11 @@ metafile = true
 [[files]]
 file = "mods/soulplied-energistics.pw.toml"
 hash = "868cd4c3ae297c2964416eac621ddc62bef85992ba39a4748e3997569c231fae"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b9d4d42709629f2d52cb9d33bedf298bbea635b53f69946f9ec2735c47dfbd83"
 metafile = true
 
 [[files]]
