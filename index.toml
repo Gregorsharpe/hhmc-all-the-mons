@@ -12042,6 +12042,11 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
+file = "mods/multiworld-mod.pw.toml"
+hash = "99079aa1e47787fb1f311f96fc9de4297b633b2e2bc4b54440fb5f4db81659f5"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agradditions.pw.toml"
 hash = "8539e6fae5a793665bd8fdc090ba91c415c997846b1da8417182d781484d7d12"
 metafile = true
