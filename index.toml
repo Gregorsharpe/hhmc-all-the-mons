@@ -10787,6 +10787,11 @@ hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "2a38009d66c62381291aa4542fa8e968059c16dfc89e1b588c48af70e6c261b9"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "f3d4366566b5eaad82deff34603aa091138ba30a5468eabdc1533cf14f8f9eb1"
 metafile = true
@@ -11284,6 +11289,11 @@ metafile = true
 [[files]]
 file = "mods/create-cc-total-logistics.pw.toml"
 hash = "a83bcdd656df0543db6dad9398edde9e0c773c24497bc3de527f22696e49f259"
+metafile = true
+
+[[files]]
+file = "mods/create-ccbr.pw.toml"
+hash = "1449381e5c47a894e66d84ee11224c006d87444554efa659923d4bb44974ee30"
 metafile = true
 
 [[files]]
@@ -12047,6 +12057,11 @@ hash = "e05df4f98fdfd2f0947c8a3b011fa3f0457fe4b50aa50e84c31e5255746a9c42"
 metafile = true
 
 [[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "a683bf43c525538d18a6be23cb8a263a09c4933ccadee721dc354d0de567c93b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
@@ -12589,6 +12604,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
+metafile = true
+
+[[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "1c9103e6191f15d9830d38b2eae72b8fe764793ae3320c249ae1bcda1e836494"
 metafile = true
 
 [[files]]
