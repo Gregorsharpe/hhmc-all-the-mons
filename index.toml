@@ -11538,7 +11538,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastsuite.pw.toml"
-hash = "3df033738bcbc1b37713cb7a26d6fc64064c8dbc7eb4134b6a891c847a3e5414"
+hash = "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca"
 metafile = true
 
 [[files]]
