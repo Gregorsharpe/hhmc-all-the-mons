@@ -12667,6 +12667,11 @@ hash = "1e64fe8b0e6b3f7099ed41c1bbe1ec213e48e2c2c7372e130abcb59b3c6679ac"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
+metafile = true
+
+[[files]]
 file = "mods/xnet.pw.toml"
 hash = "733137402d13e961da3ea59aefd584fad79c0305653edc283a0048b362e0232b"
 metafile = true
