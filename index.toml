@@ -11397,11 +11397,6 @@ hash = "d45218518bb5839d85e9d07673df031847030c1d4b683a163e63d36263ca3591"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "b67667c6ec8e3a755c0b05f81930e4f77b5a1269aed6afd4d2ae889ca05ae020"
-metafile = true
-
-[[files]]
 file = "mods/dis-enchanting-table.pw.toml"
 hash = "a35abc9918ab470587cb18f05a37918a921ec0ae59f1c256ebec3c20d819904e"
 metafile = true
