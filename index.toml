@@ -10992,6 +10992,11 @@ hash = "935a80e462527880c90ab4abba671f1add411c441096d1aaab5855ae98484f1f"
 metafile = true
 
 [[files]]
+file = "mods/async.pw.toml"
+hash = "bfd5187e3106f5e690bb9806234f40fa6af659995525c8dd68fd8810830d25e0"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
