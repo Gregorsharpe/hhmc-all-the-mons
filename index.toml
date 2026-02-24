@@ -11697,6 +11697,10 @@ hash = "0eaf07b3e07f59e5101a8724c23969495aaa649c6714e0ececff27e5550f2646"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting-0.12.0+bcc5ab8a+1.21.1-neoforge.jar"
+hash = "83ca212f5634a600281e415df307663c570588b6a85c5071ddd7736422587ff4"
+
+[[files]]
 file = "mods/heyberryshutup.pw.toml"
 hash = "bb45fd8d63908c2c96b96d6b863a748b0d673b37310af207bb352c007af05dd0"
 metafile = true
@@ -11745,6 +11749,10 @@ metafile = true
 file = "mods/industrial-foregoing.pw.toml"
 hash = "c3e1837850c9410bd8301583a0771e2ec0fc5f485d3bd74b57a9cf1967c6a0d6"
 metafile = true
+
+[[files]]
+file = "mods/inline-neoforge-1.21.1-1.2.2.jar"
+hash = "694ead6f595f106c5b82fbd8de30816f9f72e9ec5bc4a6c8b754e514bee7be2d"
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
@@ -12180,6 +12188,10 @@ metafile = true
 file = "mods/patchouli.pw.toml"
 hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
+
+[[files]]
+file = "mods/paucal-0.7.1-pre-25+1.21.1-neoforge.jar"
+hash = "59303d6fe06eba22701fa9132c208ac1f28519d3cfdc856610913835a6c9181f"
 
 [[files]]
 file = "mods/pipez.pw.toml"
