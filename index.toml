@@ -10485,6 +10485,10 @@ file = "kubejs/server_scripts/mods/Handcrafted/Recipes.js"
 hash = "318e003bc9edf3ebf16ef5d8b97f2f2461ea3de9a7f2bfa4614939de36b5c395"
 
 [[files]]
+file = "kubejs/server_scripts/mods/Hexcasting/phial_combine.js"
+hash = "6d3aa8dbe72cf20e31a9c3e3971e563a22c186f4a3362bd5d7ccf9a3c7e7ef9b"
+
+[[files]]
 file = "kubejs/server_scripts/mods/Hostile Neural Networks/Recipes.js"
 hash = "2d5b6b14a7ad1cb359e65c08f32774e281b09882e26c3df8302e729d6be30bc2"
 
