@@ -1,9 +1,8 @@
 name = "Radical Cobblemon Trainer Textures Plus" 
 filename = "rct-trainers-plus-1.6-v2.1.zip" 
 side = "both" 
- 
 [download] 
-url = "https://raw.githubusercontent.com/Gregorsharpe/hhmc-all-the-mons/refs/heads/main/annoying-mods/rct-trainers-plus-1.6-v2.1.zip" 
+url = "https://raw.githubusercontent.com/Gregorsharpe/hhmc-all-the-mons/refs/heads/dev/annoying-mods/rct-trainers-plus-1.6-v2.1.zip" 
  
 # A number of tools can generate the hash for you, including 7-zip and sha256sum 
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5 
