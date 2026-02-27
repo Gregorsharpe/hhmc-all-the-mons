@@ -13353,6 +13353,11 @@ hash = "04bd0d7668e9a435a0ca553ad247636d74f3641a7542a170de6111cea852dea6"
 metafile = true
 
 [[files]]
+file = "mods/simple-tms-NEOFORGE.pw.toml"
+hash = "54ffd6e3852c28eaf3fdfcf5fa4d285ea6ab40f15c9f505d8c407964a69f149d"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "148e7d7ad771a2d58f9518e808b849918e7cc209ff58affb4a7d129a6541cae1"
 metafile = true
@@ -13360,11 +13365,6 @@ metafile = true
 [[files]]
 file = "mods/simple-weather.pw.toml"
 hash = "a83ab94ac7b0408f648f0c9c02b905eb4c2dda8f8c01be2fdd588503cc5d8428"
-metafile = true
-
-[[files]]
-file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
-hash = "8d00e5d6c44ec2ebb13b2659225091a81c62e15b7093acbb1b37957be0465fed"
 metafile = true
 
 [[files]]
