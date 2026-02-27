@@ -209,8 +209,8 @@
 			}]
 			shape: "octagon"
 			tasks: [{
-				id: "75C0A362F2FC3119"
-				structure: "#minecraft:village"
+				id: "75C0A362F2FC3118"
+				structure: "allthemons:poke_center"
 				type: "structure"
 			}]
 			x: 4.5d

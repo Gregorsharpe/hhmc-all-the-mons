@@ -356,7 +356,7 @@
 					id: "09688F9C10379A20"
 					item: {
 						count: 1
-						id: "productivetrees:upgrade_pollen_sieve"
+						id: "productivelib:upgrade_pollen_sieve"
 					}
 					type: "item"
 				}
@@ -1642,7 +1642,7 @@
 					id: "0373862509ECD6E7"
 					item: {
 						count: 1
-						id: "eternal_starlight:starlight_mangrove_sapling"
+						id: "eternal_starlight:banyin_sapling"
 					}
 					type: "item"
 				}

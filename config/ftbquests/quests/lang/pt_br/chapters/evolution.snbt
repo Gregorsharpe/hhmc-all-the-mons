@@ -7,8 +7,8 @@
 	quest.03E8FB54B87524E1.title: "&9Pedra da Lua"
 	quest.04D0FAEF00F88A15.quest_desc: ["Lembra da &bEvolução&r por &3Troca&r? Deveria, foi a Missão logo antes desta! \\n\\nIsso funciona exatamente da mesma forma, mas alguns &cPokémon&r precisarão Segurar um Item enquanto são &3Trocados&r para poder &bEvoluir&r. \\n\\nSim, meus caros jogadores Solo, podemos usar o &3Linking Cable&r para simular a &3Troca&r. \\n\\nEu não vou listar cada &bEvolução&r que você pode obter com isso..."]
 	quest.04D0FAEF00F88A15.title: "&3Trocando&r com um Item na Mão"
-	quest.093D21D44BE4D923.quest_desc: ["Savanas, Ermos (Badlands) e Cavernas Exuberantes são onde você deve procurar por &cPedras do Sol&r. \\n\\nSe isso não for suficiente, você também pode encontrá-las em Desertos."]
-	quest.093D21D44BE4D923.title: "Encontrando &cPedras do Fogo"
+	quest.093D21D44BE4D923.quest_desc: ["Savanas, Ermos e Cavernas Exuberantes são onde você deve procurar por &cPedras do Sol&r. \\n\\nSe isso não for suficiente, você também pode encontrá-las em Desertos."]
+	quest.093D21D44BE4D923.title: "Encontrando &cPedras do Sol"
 	quest.0AABCD95FABC6025.quest_desc: ["&5Pedras do Crepúsculo&r podem ser encontradas em Taigas e raramente em Pântanos."]
 	quest.0AABCD95FABC6025.title: "Encontrando &5Pedras do Crepúsculo"
 	quest.0ADFE26AD63EC714.quest_desc: ["Para encontrar um &4Treinador&r específico, você pode usar a Seta Direita para ver cada Bioma em que eles Aparecem. \\n\\nSe você não tem um milhão de anos livres para vagar pelo &2&lMinecraft&r, então eu recomendo Criar um &4Gerador de Treinador&r! \\n\\nOnde você pode ver os Biomas para encontrar &4Treinadores&r de &4&oSérie&r, você também pode encontrar um Item Característico. Este Item precisará ser colocado dentro do &4Gerador de Treinador&r. \\n\\nUma vez configurado, dê ao &4Gerador&r um &4Sinal de Redstone&r e ele fará aquele &4Treinador&r da &4&oSérie&r aparecer magicamente na sua frente, pronto para a Batalha! \\n\\nEspero que ele não estivesse fazendo nada importante antes de você invocá-lo..."]
@@ -26,7 +26,7 @@
 	quest.2182F3E8D8696D6C.title: "Encontrando &cPedras do Fogo"
 	quest.252E8C0AA0C61575.quest_desc: ["&cCharcadet&r tem 2 caminhos de &bEvolução&r diferentes que ele pode seguir. \\n\\nO primeiro é &cArma&drogue&r, que é feito dando a ele &eAuspicious Armor&r. \\n\\nVocê pode encontrar &eAuspicious Armor&r em Baús de Bastilhas em Ruínas! \\n\\nO segundo é &cCeru&5ledge&r, que usa &5Malicious Armor&r. \\n\\n&5Malicious Armor&r aparece em Baús de Fortalezas do Nether!"]
 	quest.252E8C0AA0C61575.title: "Itens de &bEvolução&r do &cCharcadet"
-	quest.269D24B28FA92DF8.quest_desc: ["&4Associados de Treinador&r são Aldeões. Você pode dar Itens a eles para receber um &4Cartão de Treinador&r ou dar a eles um &4Cartão de Treinador&r e eles lhe darão uma &4&oSérie&r! \\n\\nClique com o Botão Direito no &4Cartão de Treinador&r para ver suas Informações. Aqui você pode encontrar Informações de cada &4Treinador&r que você enfrentou, ou Informações sobre o &4Treinador&r em sua &4&oSérie&r. \\n\\nAo visualizar um &4Treinador&r, você pode ver seu Nome e Nível Máximo. Clique na Seta Direita para ver os Biomas em que eles Aparecem! \\n\\nCom &4Treinadores&r de &4&oSérie&r, seus Nomes começarão como &kaleatório&r até você visualizá-los. Então, mostrará o Nome e o Nível Máximo que eles têm. \\n\\nSe você vencer o &4Treinador&r com um Nível Máximo maior em uma &4&oSérie&r, seu Nível Máximo aumentará!"]
+	quest.269D24B28FA92DF8.quest_desc: ["&4Associados de Treinador&r são Aldeões. Eles Aparecerão ao seu redor se você Segurar um &4Cartão de Treinador&r em sua Mão e não tiver uma &4&oSérie&r. Eles também apenas Aparecem em Vilas, como Aldeões normais. \\n\\nVocê pode dar Itens a eles para receber um &4Cartão de Treinador&r ou dar a eles um &4Cartão de Treinador&r e eles lhe darão uma &4&oSérie&r! \\n\\nClique com o Botão Direito no &4Cartão de Treinador&r para ver suas Informações. Aqui você pode encontrar Informações de cada &4Treinador&r que você enfrentou, ou Informações sobre o &4Treinador&r em sua &4&oSérie&r. \\n\\nAo visualizar um &4Treinador&r, você pode ver seu Nome e Nível Máximo. Clique na Seta Direita para ver os Biomas em que eles Aparecem! \\n\\nCom &4Treinadores&r de &4&oSérie&r, seus Nomes começarão como &kaleatório&r até você visualizá-los. Então, mostrará o Nome e o Nível Máximo que eles têm. \\n\\nSe você vencer o &4Treinador&r com um Nível Máximo maior em uma &4&oSérie&r, seu Nível Máximo aumentará!"]
 	quest.269D24B28FA92DF8.title: "&4&oSérie"
 	quest.311E949E3299C95C.quest_desc: ["A &bPedra do Gelo&r irá &bEvoluir&r &6Sandshrew&r para &6Sandslash&r e &cVulpix&r para &cNinetails&r."]
 	quest.311E949E3299C95C.title: "&bPedra do Gelo"
@@ -68,4 +68,5 @@
 	task.48230014D8628136.title: "Itens de &bEvolução&r de Milcrey"
 	task.6097F6DEBA79FDF0.title: "Itens de &bEvolução&r do Charcadet"
 	task.6D8B0FFD3F4C0BCB.title: "Evolua um Pokémon"
+
 }
