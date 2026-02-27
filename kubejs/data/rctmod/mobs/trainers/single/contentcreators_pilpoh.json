@@ -17,7 +17,7 @@
   "series": [
     "contentcreators"
   ],
-  "signatureItem": "allthemodium:allthemodium_ingot",
+  "signatureItem": "minecraft:white_concrete",
   "spawnWeightFactor": 0.25,
   "type": "contentcreators"
 }

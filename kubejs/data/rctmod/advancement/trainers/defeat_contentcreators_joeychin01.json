@@ -30,7 +30,7 @@
       "translate": "advancements.rctmod.defeat_contentcreators_joeychin01.title"
     }
   },
-  "parent": "rctmod:trainers/defeat_any",
+  "parent": "rctmod:trainers/defeat_contentcreators_princessstellar",
   "requirements": [
     [
       "defeat_contentcreators_joeychin01"
