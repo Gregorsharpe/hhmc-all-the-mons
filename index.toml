@@ -12061,11 +12061,6 @@ hash = "9ee185477be681a1edaf8ba71c04419fc5dfb00e7421821dc93ca6bc12752a09"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-pokenav.pw.toml"
-hash = "9e43ce400edd4f0bda7eb21e84bd81304a9a3025894de44ca6a7eddf40645190"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-utility.pw.toml"
 hash = "2726945ad9795cee0b27eb80d4ac5e75a0d2f5e2d965e60deff96046719b3575"
 metafile = true
@@ -12078,6 +12073,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
 hash = "e82be0bf6a391473af3682e7eebc6d6a98e490c2facebb5291c1bab068481118"
+metafile = true
+
+[[files]]
+file = "mods/cobblenav-NEOFORGE.pw.toml"
+hash = "b41a2348ecc2101b97e86c485f253fdbc8d72bb7a23c942e7d2c708330349c1d"
 metafile = true
 
 [[files]]
@@ -12615,8 +12615,8 @@ hash = "288c37b7acf5a32bd60901c411acf9ef2fffebb3f46c3f607415256ce91d653c"
 metafile = true
 
 [[files]]
-file = "mods/im-fast.pw.toml"
-hash = "a7b43a5e9c934e22bebe3298ae5ec54bbf098f3506703a1581f901e6896797ff"
+file = "mods/imfast-NEOFORGE.pw.toml"
+hash = "afb5324eae86d452ab5423a81857467fda4dcf25a2dd3bbc5a1ce3b567f68121"
 metafile = true
 
 [[files]]
