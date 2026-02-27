@@ -1,13 +1,13 @@
 {
   "structures": [
     {
-      "structure": "allthemons:poke_center",
+      "structure": "allthemons:chosen_tower",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "salt": 123461,
+    "salt": 983461,
     "spacing": 100,
     "separation": 80
   }
