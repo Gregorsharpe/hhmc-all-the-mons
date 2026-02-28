@@ -169,6 +169,10 @@ file = "config/cataclysm.toml"
 hash = "2a514c893277d0e28c6546cc847d3683afeb8786e182380cbca83c001939d3f9"
 
 [[files]]
+file = "config/cobbleworkers.json"
+hash = "3b6145a5afa73d8071735369766cb60f7af30bea821f2edff95780b984c6a53b"
+
+[[files]]
 file = "config/compactmachines-client.toml"
 hash = "93e4ca80b227bdc15f5c43ab5dd1e001dcd3d13fed6461de495a484013aacf34"
 
